@@ -1,4 +1,4 @@
-// Version 2.2.1
+// Version 2.2.2
 (function () {
   'use strict';
   const WORKER_URL = 'https://store-locator.kilr.workers.dev/';
